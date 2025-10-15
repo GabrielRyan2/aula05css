@@ -1,0 +1,18 @@
+p {
+    font-weight: 500;
+    /* font-weigth peso da fonte o modelo como ela será, negrito etc */
+}
+
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+.texto {
+        font-size: 30px;
+        color: rgb(13, 13, 13);
+        text-align: center;
+    }
+
+body h2{
+    text-align: center;
+}
